@@ -9,10 +9,11 @@ fun main() {
     outSpaceHour = 10
     val outSpaceMinute : Int
     outSpaceMinute = 55
+
     println ("Gagarin flight time was:")
     println ("in $toSpaceYear year")
     println ("at $toSpaceHour hours")
     println ("and $toSpaceMinute minutes")
-    print ("Gagarin landing time was: $outSpaceHour:$outSpaceMinute")
+    print ("Gagarin landing time was : $outSpaceHour:$outSpaceMinute")
 
 }
