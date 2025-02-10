@@ -5,5 +5,5 @@ fun main() {
     workersNumber = 2000
     /*println ("Workers' Numbers is $workersNumber")*/
     workersNumber = 1999
-    println ("Workers' number is $workersNumber")
+    println ("Workers' number is  $workersNumber")
 }
